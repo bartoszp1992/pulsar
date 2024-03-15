@@ -1,0 +1,4 @@
+../Src/comp.c:31:6:MX_COMP1_Init	2
+../Src/comp.c:61:6:MX_COMP2_Init	2
+../Src/comp.c:91:6:HAL_COMP_MspInit	3
+../Src/comp.c:135:6:HAL_COMP_MspDeInit	3

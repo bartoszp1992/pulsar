@@ -1,0 +1,3 @@
+../Src/pid.c:10:6:PID_init	24	static
+../Src/pid.c:35:6:PID_setTarget	16	static
+../Src/pid.c:39:9:PID_sample	32	static
